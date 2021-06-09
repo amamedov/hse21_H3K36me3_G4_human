@@ -1,7 +1,7 @@
 library(ggplot2)
 library(dplyr)
 
-# setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Мамедов/src')
+setwd('C:/Users/Артём/Desktop/HSE/Бионформатика/Проект/Мамедов/hse21_H3K36me3_G4_human/src/')
 name_1 <- 'H3K36me3_GM12878.ENCFF432EMI.hg19'
 name_2 <- 'H3K36me3_GM12878.ENCFF475QVQ.hg19'
 outdir <- '../images/'
